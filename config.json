@@ -1,0 +1,8 @@
+{
+    "name": "coreutils-service",
+    "version": "1.0.995",
+    "private": false,
+    "environment": "production",
+    "build_id": 911,
+    "allow_public_access": true
+}
